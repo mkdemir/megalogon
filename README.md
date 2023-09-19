@@ -3,8 +3,9 @@
 </p>
 
 ![Version](https://img.shields.io/badge/version-0.0.0-orange.svg)
-![Test](https://github.com/mkdemir/megalogon/actions/workflows/go.yml/badge.svg)
 ![Go](https://img.shields.io/github/go-mod/go-version/mkdemir/megalogon)
+![Go Build Status](https://github.com/mkdemir/megalogon/actions/workflows/go.yml/badge.svg)
+![GolangCI-Lint Status](https://github.com/mkdemir/megalogon/actions/workflows/golang-lint.yml/badge.svg)
 [![Documentation](https://godoc.org/github.com/mkdemir/megalogon?status.svg)](https://pkg.go.dev/github.com/mkdemir/megalogon)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkdemir/megalogon)](https://goreportcard.com/report/github.com/mkdemir/megalogon)
 
